@@ -8,7 +8,7 @@ I like software development and I'm trying to get better while also finding a la
  - HTMX
 
 🎯 In the not too distant future, I want to try:
- - Rust
+ - ~Rust~ (I'm too stupid for the borrow checker 😭)
  - C
 
 I've always struggeled with imposter syndrome, but in an attempt to combat it, I've decided to try to commit something to a public repository (almost) every day. While I doubt I will be able to keep up with that commitment, continuously pushing my personal projects to public repositories is the goal. Let's see how well I fare 😄
