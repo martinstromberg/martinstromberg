@@ -6,8 +6,6 @@ As I've grown older, I've realized that I don't know all that much about the fun
 
 Since I've mostly developed software targeting the web, I want to try my hand at some non-web projects. Coming up with ideas can be challenging though.
 
-I've always struggeled with imposter syndrome, but in an attempt to combat it, I've decided to try to commit something to a public repository (almost) every day. While I doubt I will be able to keep up with that commitment, continuously pushing my personal projects to public repositories is the goal. Let's see how well I fare 😄
-
 🌱 Right now, I'm exploring:
  - Go
  - Haskell
